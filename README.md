@@ -2,10 +2,10 @@
 
 Requerimientos del programa: 
 
-Buyer persona: Ricardo Abogados.pdf
+Buyer persona: https://github.com/AlexAltamirano/IntroFrontEnd_1-Semana/blob/2271de64f80860162b2fba9f39bf36ab7fd831f1/Ricardo%20Abogados.pdf 
 
-Publico Objetivo: ![Target Audience Template](https://user-images.githubusercontent.com/99305618/156117772-8a152543-e183-4ff6-996d-44ee96b4adef.jpg)
+Publico Objetivo: https://github.com/AlexAltamirano/IntroFrontEnd_1-Semana/blob/2271de64f80860162b2fba9f39bf36ab7fd831f1/Target%20Audience%20Template.jpg
 
-UX: ![UX Wireframing](https://user-images.githubusercontent.com/99305618/156117788-8b8d666f-0847-426c-9885-797b2916a63d.jpg)
+UX: https://github.com/AlexAltamirano/IntroFrontEnd_1-Semana/blob/2271de64f80860162b2fba9f39bf36ab7fd831f1/UI%20Wireframing.jpg
 
-UI: ![UX Wireframing](https://user-images.githubusercontent.com/99305618/156117801-346e63ff-18ba-4c41-a7a4-ce73a962bd9b.jpg)
+UI: https://github.com/AlexAltamirano/IntroFrontEnd_1-Semana/blob/2271de64f80860162b2fba9f39bf36ab7fd831f1/UX%20Wireframing.jpg

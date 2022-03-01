@@ -1,6 +1,6 @@
 # IntroFrontEnd_1-Semana
 
-Requerimientos del programa: 
+Requerimientos del programa: https://github.com/AlexAltamirano/IntroFrontEnd_1-Semana/blob/0b7461f68f08bb2fcd737b0878d79434d71a6240/1.-Requerimientos.doc
 
 Buyer persona: https://github.com/AlexAltamirano/IntroFrontEnd_1-Semana/blob/2271de64f80860162b2fba9f39bf36ab7fd831f1/Ricardo%20Abogados.pdf 
 

@@ -2,7 +2,7 @@
 
 Requerimientos del programa: 
 
-Buyer persona: [Ricardo Abogados.pdf](https://github.com/AlexAltamirano/IntroFrontEnd_1-Semana/files/8159303/Ricardo.Abogados.pdf)
+Buyer persona: Ricardo Abogados.pdf
 
 Publico Objetivo: ![Target Audience Template](https://user-images.githubusercontent.com/99305618/156117772-8a152543-e183-4ff6-996d-44ee96b4adef.jpg)
 
